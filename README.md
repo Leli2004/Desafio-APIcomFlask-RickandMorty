@@ -3,7 +3,7 @@ A proposta do desafio consiste em criar uma aplicação que envolve manipulaçã
 
 #### Está é uma prática do Bootcamp Python e Django, promovido pela WomakersCode.
 
-####################
+#####
 
 ## Time ENIAC
 
