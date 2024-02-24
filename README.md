@@ -14,4 +14,4 @@
 # Desafio
 A proposta do desafio consiste em criar uma aplicação que envolve manipulação de uma API com Flask e Python.
 
-##### Prática do Bootcamp Python e Django, promovido pela WomakersCode.
+#### Está é uma prática do Bootcamp Python e Django, promovido pela WomakersCode.
