@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\laragon\www\Desafio-Rick-and-Morty\my-venv
+set VIRTUAL_ENV=C:\Codar\Desafio-Rick-and-Morty\my-venv
 
 if not defined PROMPT set PROMPT=$P$G
 

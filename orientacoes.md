@@ -46,6 +46,6 @@ Horário: 19h00
 
 FORMULÁRIO DE ENTREGA
 - A squad deve indicar dentro do formulário disponibilizado os nomes das responsáveis pela solução do desafio.
-- Dentro deste mesmo formulário será necessário incluir um link do GitHub que contenha todo o desafio solucionado pela squad e o vídeo de  presentação do desafio.
-- A squad deve responder o formulário até às 19h do dia 01 demarço. Após o envio, o desafio não poderá ser atualizado.
+- Dentro deste mesmo formulário será necessário incluir um link do GitHub que contenha todo o desafio solucionado pela squad e o vídeo de presentação do desafio.
+- A squad deve responder o formulário até às 19h do dia 01 de março. Após o envio, o desafio não poderá ser atualizado.
 - Link: https://forms.gle/ofm4qypDkAZfhFBB7
